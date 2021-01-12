@@ -29,7 +29,7 @@
   - [Assignment 05.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment05)
   Write a code in C programming for the summation of numbers in a list given by an input file using a recursive function
   
-  [Assignment 06.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment06)
+  - [Assignment 06.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment06)
   Write a code in C programming for the permutation of a list of characters given by an input file and save its output to a text file
 
   - [Assignment 07.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment07)
