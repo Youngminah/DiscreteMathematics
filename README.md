@@ -14,25 +14,25 @@
 
 ## :books: Contents
 
-  [Assignment 01.](https://github.com/Youngminah)
+  - [Assignment 01.](https://github.com/Youngminah)
   Make your own github account
   
-  [Assignment 02.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment02)
+  - [Assignment 02.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment02)
   Write a source code in C programming for computing the summation and the subtraction by a command line
 
-  [Assignment 03.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment03)
+  - [Assignment 03.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment03)
   Write a code in C programming for obtaining the powerset of a given set
   
-  [Assignment 04.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment04)
+  - [Assignment 04.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment04)
   Write a code in C programming for obtaining the powerset of a given set and save them to a text file
   
-  [Assignment 05.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment05)
+  - [Assignment 05.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment05)
   Write a code in C programming for the summation of numbers in a list given by an input file using a recursive function
   
   [Assignment 06.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment06)
   Write a code in C programming for the permutation of a list of characters given by an input file and save its output to a text file
 
-  [Assignment 07.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment07)
+  - [Assignment 07.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment07)
   Write a code in C programming to build a dictionary of words from a given text file and count number of words, and save the results as a text file
 
 
