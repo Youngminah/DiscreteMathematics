@@ -38,13 +38,10 @@
 
 
 
-###  Jupyter Notebook
+###  Code
 
 ```console
-- Write programming codes in python
-- Use Jupyter Notebook for writing codes
-- Include comments and intermediate results in addition to the codes
-- Export the Jupyter Notebook file in PDF format
+- Write programming codes in C
 ```
 
 
