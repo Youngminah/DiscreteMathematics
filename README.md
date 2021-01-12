@@ -1,72 +1,62 @@
-# Assignment 01
+# DiscreteMathematics
+[![image](https://img.shields.io/badge/Language-Python3.7.0-yellow)](https://www.python.org/downloads/release/python-370/) 
+[![image](https://img.shields.io/badge/Library-Pytorch%201.3.1-orange) ](https://pytorch.org/)
+[![image](https://img.shields.io/badge/Tool-Jupyter%20Notebook-red)](https://jupyter.org/)
+[![image](https://img.shields.io/badge/References-Coursera-blue)](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_content=17-DeepLearning-ROW&campaignid=6465471773&adgroupid=77415260637&device=c&keyword=coursera%20deep%20learning%20ai&matchtype=b&network=g&devicemodel=&adpostion=1t1&creativeid=379493352691&hide_mobile_promo&gclid=CjwKCAiAx_DwBRAfEiwA3vwZYlou6zu4lfD5oJXeVwUq5yefPHoQ85MYlxFEagat5zbERSHfnswydxoCypcQAvD_BwE)
 
-## 1. Create an account at [github.com]
 
-- You may use your existing account if there is any
 
-## 2. Create an empty private repository at your github account
 
-- Remember the path to the remote repository
-- example: **git@github.com:hongbyungwoo/assignment01.git**
+## :memo: Introduction
+이산수학의 기본개념을 적용하여 C로 코딩.
 
-## 3. Create a new directory at your local drive
 
-- example: **/Users/home/hong/class/DiscreteMathematic/Assignment/01**
 
-## 4. Create an empty text file **README.md** in the created directory
+## :books: Contents
 
-- example: **/Users/home/hong/class/DiscreteMathematic/Assignment/01/README.md**
+  [Assignment 01.](https://github.com/Youngminah)
+  Make your own github account
+  
+  [Assignment 02.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment02)
+  Write a source code in C programming for computing the summation and the subtraction by a command line
 
-```console
-$ cd /Users/home/hong/class/DiscreteMathematic/Assignment/01
-$ touch README.md
-```
+  [Assignment 03.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment03)
+  Write a code in C programming for obtaining the powerset of a given set
+  
+  [Assignment 04.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment04)
+  Write a code in C programming for obtaining the powerset of a given set and save them to a text file
+  
+  [Assignment 05.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment05)
+  Write a code in C programming for the summation of numbers in a list given by an input file using a recursive function
+  
+  [Assignment 06.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment06)
+  Write a code in C programming for the permutation of a list of characters given by an input file and save its output to a text file
 
-## 5. Make an initial git commit at your local drive (first commit)
+  [Assignment 07.](https://github.com/Youngminah/DiscreteMathematics/tree/Assignment07)
+  Write a code in C programming to build a dictionary of words from a given text file and count number of words, and save the results as a text file
 
-- Change the working directory to the local drive (**/Users/home/hong/class/DiscreteMathematic/Assignment/01**)
-- Execute the following git commands at the local drive
 
-```console
-$ git init
-$ git add .
-$ git commit -a -m "initial commit"
-$ git remote add origin **path to the reposity (git@github.com:hongbyungwoo/assignment01.git)**
-$ git push -u origin master
-```
 
-## 6. Modify the file **README.md**
 
-- Edit the file **README.md** following the markdown syntax at the local drive 
-- example : add your name to **README.md**
-
-## 7. Commit the modification  (second commit)
-
-- Commit the modification made at the file **README.md** at the local drive 
+###  Jupyter Notebook
 
 ```console
-$ git commit -a -m "second commit"
-$ git push -u origin master
+- Write programming codes in python
+- Use Jupyter Notebook for writing codes
+- Include comments and intermediate results in addition to the codes
+- Export the Jupyter Notebook file in PDF format
 ```
 
-## 8. Modify the file **README.md**
 
-- Edit the file **README.md** again following the markdown syntax at the local drive 
-- example : add your student ID to **README.md**
+## :mailbox_with_mail: Connect
 
-## 9. Commit the modification (third commit) 
-
-- Commit the modification made at the file **README.md** at the local drive 
-
-```console
-$ git commit -a -m "third commit"
-$ git push -u origin master
+```
+  Github : https://github.com/Youngminah
+  Email : kimym7418@gmail.com
 ```
 
-## 10. Submit the history of the commits
 
-- Save the commits page of the repository at github website as a PDF file
-- Submit the PDF file at Google Classroom
-- Make sure that you properly submit the assignment at Google Classroom
-- Late submission is not allowed
-- No execuse for technical mistakes
+
+
+
+
